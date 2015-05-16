@@ -1,0 +1,6 @@
+c:\users\natali\documents\visual studio 2012\Projects\DesafioML\DesafioML\bin\Debug\DesafioML.exe.config
+c:\users\natali\documents\visual studio 2012\Projects\DesafioML\DesafioML\bin\Debug\DesafioML.exe
+c:\users\natali\documents\visual studio 2012\Projects\DesafioML\DesafioML\bin\Debug\DesafioML.pdb
+c:\users\natali\documents\visual studio 2012\Projects\DesafioML\DesafioML\obj\Debug\DesafioML.csprojResolveAssemblyReference.cache
+c:\users\natali\documents\visual studio 2012\Projects\DesafioML\DesafioML\obj\Debug\DesafioML.exe
+c:\users\natali\documents\visual studio 2012\Projects\DesafioML\DesafioML\obj\Debug\DesafioML.pdb
